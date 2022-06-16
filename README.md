@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am open to software engineering opportunities.
+
+You can find my art/design portfolio at https://elson.pb.online/
 
 <!--
 **aythels/aythels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
