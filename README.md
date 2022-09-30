@@ -2,7 +2,7 @@
 
 I am open to software engineering opportunities.
 
-You can find my temporary art/design portfolio at https://elson.pb.online/ (the new site is currently in development!)
+You can find my art/design portfolio at https://elsonel.github.io/
 
 <!--
 **aythels/aythels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
