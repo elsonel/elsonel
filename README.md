@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am open to software engineering opportunities.
+I'm open to software engineering opportunities.
 
 You can find my art/design portfolio at https://elsonel.github.io/
 
